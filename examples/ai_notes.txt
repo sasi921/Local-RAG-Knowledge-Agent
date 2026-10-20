@@ -1,0 +1,1 @@
+The AI team uses retrieval augmented generation for grounded answers. Documents are chunked, indexed, retrieved by relevance, and returned with citations. Human review is required for sensitive actions. Evaluation focuses on groundedness, relevance, and answer quality.
