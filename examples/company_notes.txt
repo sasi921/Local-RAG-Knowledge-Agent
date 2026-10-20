@@ -1,0 +1,1 @@
+Acme Cloud deploys services with Docker and Kubernetes. Production releases use CI/CD pipelines with automated tests. The platform team monitors latency, errors, and availability. Security reviews are required before high-risk production changes.
